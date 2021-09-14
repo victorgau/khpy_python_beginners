@@ -1,5 +1,8 @@
 # turtle常用指令彙整
 
+在這裡我們列出一些繪圖指令之外的常用指令，若想要了解更詳細的指令使用方法可以點擊[官網連結](https://docs.python.org/3/library/turtle.html)進一步查詢。
+
+
 ## 基本繪圖指令
 
 |方法|縮寫|說明|
@@ -26,3 +29,29 @@
 |end_fill( )|結束填滿顏色。|
 |pensize(10)|設定線的寬度為 10。|
 |width(10)|設定線的寬度為 10。|
+
+
+## 回傳海龜(turtle)的狀態
+
+|方法|縮寫|說明|
+|:-|:-|:-|
+|heading( )||回傳 turtle 的方向。|
+|position( )|pos()|回傳 turtle 的位置。|
+|towards(x, y)||回傳目前位置跟 (x, y) 之間的角度。|
+|xcor( )||回傳目前的 X 座標。|
+|ycor( )||回傳目前的 Y 座標。|
+|distance( )||回傳目前位置跟 (x, y) 的距離。|
+
+## 其他控制
+
+|方法|說明|
+|:-|:-|
+|stamp()|在目前的位置蓋一個turtle形狀的章。|
+|shape('turtle')|可以是‘arrow’, ‘classic’, ‘turtle’ 或 ‘circle’|
+
+## 生成turtle跟screen
+
+|方法|說明|
+|:-|:-|
+|Turtle( )|產生一個 turtle 物件。|
+|Screen(width, height)|設定繪圖螢幕的大小，如果省略 width 跟 height，則將大小設為預設值。|
