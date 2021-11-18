@@ -2,7 +2,7 @@
 
 ### 關於唯客學院：
 
-* [唯客學院網址](http://www.victorgau.com)
+* [唯客學院網址](http://www.vcdemy.com)
 * [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
@@ -14,14 +14,22 @@
 
 小五以上稍微了解英文及電腦操作的朋友，最好具備座標系、角度及數學函數的基礎概念。
 
+### 影音教學
+
+* [Python初步](https://khpy.teachable.com/p/python-beginners)
+
+### 相關講義
+
+* [Turtle基礎指令](basics.md)
+* [Turtle指令彙整](commands.md)
+* [Turtle挑戰題](challenges.md)
+
 ### 1. 文件導覽：
 
 * [Turtle graphics](https://docs.python.org/3/library/turtle.html)
 * [trinket.io](https://trinket.io/python)
 
 ### 2. 實作引導：
-
-免費影音教學：[https://khpy.teachable.com/p/python-beginners](https://khpy.teachable.com/p/python-beginners)
 
 * Python程式設計基本概念
 * 幾何觀念
