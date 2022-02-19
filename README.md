@@ -14,7 +14,7 @@
 
 小五以上稍微了解英文及電腦操作的朋友，最好具備座標系、角度及數學函數的基礎概念。
 
-### 影音教學
+### 影片教學
 
 * [Python初步](https://khpy.teachable.com/p/python-beginners)
 
